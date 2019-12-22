@@ -2,7 +2,7 @@
 Australian Aristocrat
 
 Weapon: The poison used in the Puzzlebox is derived from the deadly venom of Yellow Bellied SeaSnake, native to Australia.
-Evidence: A cigarette case inscribed with "P.F."
+Evidence: A cigarette case inscribed with "P.F." / Pearl Necklace
 Evidence: Seen finding Velma's glasses.
 Evidence: 
 Motive: She is the daughter of James Moriarty. She is avenging his death.

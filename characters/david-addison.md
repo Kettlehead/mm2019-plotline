@@ -8,4 +8,4 @@ Played by Ian Barker
 
 Answer: "OK, I'm gonna come clean! You gotta believe me though that I nothing to do what happened to Sherlock! Sherlock Holmes had gotten himself mixed up in some business between the United States and the United Kingdom's governments. My client, a US Senator, hired me to get some sensitive documents out of Holmes' hands and back where they belong."
 
-**Insight:** -> Magnum / Client 1 of 5
+**Insight:** -> You were approached by the US Senator after you received an invite aboard the Orient Express, but you've had bad dealings with them in the past, pretty crooked as far as you know even if they do keep it pretty quiet, so you didn't even find out what they wanted.

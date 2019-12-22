@@ -8,4 +8,4 @@ Question: "Miss Fisher, I've travelled extensively across the world and I believ
 
 Answer: "Why Miss Holt, I am aware of how deadly the Yellow-Bellied Sea Snake is, it's neurotoxin has been used by a few murderers that I am aware of. I believe it would be possible to manufacture a poison gas from it's venom and conceal a delivery mechanism in a Puzzlebox like the one Miss Dinkley gave to Mr Holmes."
 
-Insight: Fisher? 2 of 5
+Insight: You heard a few rumours going around and did a little investigating yourself into the truth of them. Mystery Inc, Velma's gang, is officially broke, disbanding and going out of business.

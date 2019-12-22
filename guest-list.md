@@ -21,13 +21,13 @@ Extras
 - Wiggins: One of the Baker Street Irregulars. (Played by Finnegan)
 
 Order of Questions:
+- Nancy Drew -> Velma : Holmes' Will (LH : Mystery Inc Bust)
 - Remington Steele -> Magnum : Shirt Scrap
-- Nancy Drew -> Velma : Holmes' Will (?? : Mystery Inc Bust)
-- Veronica Mars -> Magnum : Seen Climbing Outside The Train (?? : Magnum Casing The Joint)
-- Maddie Hayes -> Fisher : Cigarette Case
-- Laura Thyme -> Magnum : Poison Plants (LT: Green Tinge)
+- Maddie Hayes -> Fisher : Cigarette Case X
+- Veronica Mars -> Magnum : Seen Climbing Outside The Train (FC : Magnum Casing The Joint)
 - Rosemary Boxer -> Velma : Puzzle Box (RB: Puzzlebox is originally from Australia)
-- David Addison -> Magnum : Safe Cracking (?? : Suspicious Client)
-- Jane Marple -> Velma : Glasses Found (?? : Fisher was seen finding the glasses, ?? : Velma was seen losing them)
+- Laura Thyme -> Magnum : Poison Plants (LT: Green Tinge)
+- David Addison -> Magnum : Safe Cracking (DA : Suspicious Client, RS: US Documents)
+- Jane Marple -> Velma : Glasses Found (?? : Fisher was seen finding the glasses, ?? : Velma was seen losing them) X
 - Frank Columbo -> Velma : Heard Arguing (?? : ??) 
 - Laura Holt -> Fisher : Yellow-Bellied Sea Snake
