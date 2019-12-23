@@ -25,9 +25,9 @@ Order of Questions:
 - Remington Steele -> Magnum : Shirt Scrap
 - Rosemary Boxer -> Velma : Puzzle Box (RB: Puzzlebox is originally from Australia)
 - Veronica Mars -> Magnum : Seen Climbing Outside The Train (FC : Magnum Casing The Joint)
-- Jane Marple -> Fisher : Mathematical Skill
+- Jane Marple -> Fisher : Mathematical Skill (VM: Puzzle box Maker)
 - Laura Thyme -> Magnum : Poison Plants (LT: Green Tinge)
-- Maddie Hayes -> Velma : Australian Journey
+- Maddie Hayes -> Velma : Australian Journey (MH: Moriarty's Daughter)
 - David Addison -> Magnum : Safe Cracking (DA : Suspicious Client, RS: US Documents)
 - Frank Columbo -> Velma : Heard Arguing (ND : Velma Angry) 
 - Laura Holt -> Fisher : Yellow-Bellied Sea Snake
