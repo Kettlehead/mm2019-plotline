@@ -10,4 +10,4 @@ Question: "Velma, you have been Holmes' protege for many years and I have been l
 
 Answer: "Well, gee, Sherlock and I had talked about how I would carry on his work and keep advancing criminal science after he was gone... but I had no idea that he had changed his will."
 
-Insight: Velma Dinkley 1 of 5
+Insight: There was an argument that a few of you overheard between Sherlock and Velma (but more in tone than content). You think you caught a little more detail: Velma was the angry one. saying that more money was needed, resources were scarce, it sounded like Velma was saying Sherlock would regret his lack of action.

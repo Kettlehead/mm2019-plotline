@@ -23,11 +23,11 @@ Extras
 Order of Questions:
 - Nancy Drew -> Velma : Holmes' Will (LH : Mystery Inc Bust)
 - Remington Steele -> Magnum : Shirt Scrap
-- Maddie Hayes -> Fisher : Cigarette Case X
-- Veronica Mars -> Magnum : Seen Climbing Outside The Train (FC : Magnum Casing The Joint)
 - Rosemary Boxer -> Velma : Puzzle Box (RB: Puzzlebox is originally from Australia)
+- Veronica Mars -> Magnum : Seen Climbing Outside The Train (FC : Magnum Casing The Joint)
+- Jane Marple -> Fisher : Mathematical Skill
 - Laura Thyme -> Magnum : Poison Plants (LT: Green Tinge)
+- Maddie Hayes -> Velma : Australian Journey
 - David Addison -> Magnum : Safe Cracking (DA : Suspicious Client, RS: US Documents)
-- Jane Marple -> Velma : Glasses Found (?? : Fisher was seen finding the glasses, ?? : Velma was seen losing them) X
-- Frank Columbo -> Velma : Heard Arguing (?? : ??) 
+- Frank Columbo -> Velma : Heard Arguing (ND : Velma Angry) 
 - Laura Holt -> Fisher : Yellow-Bellied Sea Snake

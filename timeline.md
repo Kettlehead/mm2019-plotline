@@ -4,7 +4,7 @@ Fisher comes to Europe and assumes control of her father's criminal network.
 Fisher leaks the Puzzlebox's location to Velma's agents.
 Velma gets the Puzzlebox.
 Holmes invites everyone aboard the Orient Express
-Magnum is hired under pretense of National Security
+Magnum is hired under pretense of American National Security to retrieve the documents Holmes has.
 --
 Guests board Express in Paris.
 Travel across Europe.

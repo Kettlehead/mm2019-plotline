@@ -1,7 +1,7 @@
 # The Holmes Express: Outline
 Sherlock Holmes has gathered the worlds finest detectives together to celebrate Christmas aboard the Orient Express.
 
-Whilst traveling across Europe, the train becomes stuck in ??? and cut off from the rest of the world as a result of a terrible snowstorm.
+Whilst traveling across Europe, the train becomes stuck in on the outskirts of Austria and cut off from the rest of the world as a result of a terrible snowstorm.
 
 Sherlock Holmes is murdered and the game is afoot! He manages to write a final note that gives his list of suspects. The suspects are: Phryne Fisher, Thomas Magnum and Velma Dinkley.
 
