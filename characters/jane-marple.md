@@ -10,4 +10,4 @@ Question: "Miss Fisher, we've had a chance to play a few games of cards so far o
 
 Answer: "Why thank you Miss Marple for such a lovely compliment, I studied in England actually, at Oxford, but I guess there has always been a strong aptitude for maths in my family. I wouldn't say I am exceptional though, you are too kind"
 
-Insight: In your opinion, killing someone using a poison trap is an act of revenge, someone hoping to gain benefit from a will would make it look like an accident and it does seem like a spur of the moment killing.
+Insight: In your opinion, killing someone using a poison trap is an act of revenge, someone hoping to gain benefit from a will would make it look like an accident and it does not seem like a spur of the moment killing.
