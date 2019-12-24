@@ -1,5 +1,5 @@
 **Velma Dinkley**
-Ex-Protege & Intellectual Debunker
+Sherlock Holme's Protege and one of the members of Mystery Inc, a group who specialise in investigating supernatural shenanigans.
 
 Weapon: Velma gave Holmes the Puzzlebox which killed him.
 Evidence: She and Holmes were heard arguing angrily.

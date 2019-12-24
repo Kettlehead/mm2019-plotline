@@ -4,4 +4,4 @@ Question: "Magnum, at around 9pm, while most of us were in the lounge, I was com
 
 Answer: "Now listen kiddo, I know that looked suspicious and this is kinda embarrassing but a lady friend of mine asked me to pick up some particular garments from some famous place in Paris. I had everything stacked precariously in my cabin, the window open and when I went to change my shirt earlier, if her precious new clothes didn't fall out of my luggage and get whisked out the window! Luckily they caught on the outside of the train, so I snuck outside, grabbed them and made it back to my room before anyone noticed or I thought I did!"
 
-Insight: Velma Dinkley 2 of 5:
+Insight: Examining the Puzzlebox, you believe that whomever made it would require great mathematical skill and crypotograhical talent or have hired someone who does.

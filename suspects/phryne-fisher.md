@@ -1,5 +1,5 @@
 **Phryne Fisher**
-Australian Aristocrat
+Phryne is a wealthy aristocrat and private detective who lives in St Kilda, Melbourne
 
 Phryne Fisher journeyed to Europe with the aim of avenging her father Professor Moriarty and assuming control of his criminal empire.
 

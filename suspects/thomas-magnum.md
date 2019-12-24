@@ -1,5 +1,5 @@
 **Thomas Magnum**
-Hawaiian Ex-Military Private Investigator
+An ex-military private investigator living on Oahu, Hawaii.
 
 Weapon: Poisonous plants from Hawaii.
 Evidence: Magnum was seen sneaking away from the murder scene.
