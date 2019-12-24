@@ -12,4 +12,5 @@ Motive: Magnum was hired by his US Senator Barbara Nixon to get the documents th
 Opening Statement: "I might not have known Mr Holmes as well as a lot of you, but I respected him as a detective and gentlemen. I'm no murderer and I'll help you all figure out who did this!"
 
 **Dramatic Revelations**
-- "I didn't know Senator Nixon was corrupt! I was believed I was working for the sake of the United States national security"
+
+- "I didn't know Senator Nixon was corrupt! I was believed I was working for the sake of the United States national security!"
